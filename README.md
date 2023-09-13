@@ -27,5 +27,5 @@ Meu nome é **Julia Alexandrino**, sou **formada em Análise e Desenvolvimento d
 </div>
 
 #### Me encontre em:
-<a href="https://www.linkedin.com/in/juliaalexandrino" target="_blank"><img title="LinkedIn" alt="LinkedIn" height="25" width="95" src="https://i.imgur.com/tNZDjFe.png" target="_blank"></a>
-<a href="mailto:juliasalexandrino@hotmail.com" target="_blank"><img title="E-mail" alt="E-mail" height="25" width="95" src="https://i.imgur.com/MgpDJFT.png" target="_blank"></a>
+<a href="https://www.linkedin.com/in/juliaalexandrino" target="_blank"><img title="LinkedIn" alt="LinkedIn" height="25" width="95" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:juliasalexandrino@hotmail.com" target="_blank"><img title="E-mail" alt="E-mail" height="25" width="95" src="https://img.shields.io/badge/outlook-1e9ae4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
