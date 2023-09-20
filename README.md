@@ -22,7 +22,7 @@ Meu nome é **Julia Alexandrino**, sou **formada em Análise e Desenvolvimento d
   <img align="center" alt=".NET Core" title=".NET Core" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"> 
   <img align="center" alt="Docker" title="Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> 
   <img align="center" alt="Insomnia REST" title="Insomnia REST" height="30" width="30" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
-  <img align="center" alt="MySQL" title="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="SQLServer" title="SQLServer" height="30" width="30" src="https://camo.githubusercontent.com/2636f807a9f2c751d54b817ae081a8a348a6d4eeec7c344c36bdb5f5717e1bcb/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6d6963726f736f667473716c7365727665722f434332393237">
   <img align="center" alt="Git" title="Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
